@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KishorePrasanna
 - 👀 I’m interested in Data analytics, Data analysis
-- 🌱 I’m currently learning Pandas and NumPi
+- 🌱 I’m currently learning Pandas and NumPi anything related to Data analytics
 - 💞️ I’m looking to collaborate on END to END SQl projects and Python data analytics projects
 - 📫 You can reach me Kishore433kk@gmail.com
 - 😄 Pronouns: he/Him
